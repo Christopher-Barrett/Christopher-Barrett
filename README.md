@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Christopher! 👋
 
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Human Rights First - Blue Witness
 - 🌱 I’m currently learning ... antDesign
